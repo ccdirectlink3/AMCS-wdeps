@@ -1,0 +1,17 @@
+{
+  "labels": {
+    "options": {
+      "headers": {
+        "AMCS": "AMCS"
+      },
+      "controls": {
+        "keys": {
+          "Call": "Call",
+          "Vanish": "Vanish",
+          "Luna dial": "Luna dial",
+          "Reset time flow": "Reset time flow"
+        }
+      }
+    }
+  }
+}
